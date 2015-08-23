@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1,LIGTV HD
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/726.ts
+#EXTINF:-1,LIGTV 3HD
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/728.ts
+#EXTINF:-1,LIGTV 2HD
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/727.ts
+#EXTINF:-1,LIGTV 1 DTP
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/731.ts
+#EXTINF:-1,(HD) Ligtv 1
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/1170.ts
+#EXTINF:-1,(HD) Ligtv 2
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/1171.ts
+#EXTINF:-1,(HD) Ligtv 3
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/1172.ts
+#EXTINF:-1,SMART SPOR
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/725.ts
+#EXTINF:-1,SMART SPOR 2
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/730.ts
+#EXTINF:-1,TIVIBU SPOR 1 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/722.ts
+#EXTINF:-1,TIVIBU SPOR 2 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/729.ts
+#EXTINF:-1,SKY MOVIES THRILLER (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/619.ts
+#EXTINF:-1,SKY MOVIES SCI-FI (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/618.ts
+#EXTINF:-1,SKY MOVIES PREMIERE (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/617.ts
+#EXTINF:-1,SKY MOVIES FAMILY (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/616.ts
+#EXTINF:-1,SKY MOVIES COMEDY (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/615.ts
+#EXTINF:-1,SKY MOVIES ACTION (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/614.ts
+#EXTINF:-1,SKY DRAMA (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/620.ts
+#EXTINF:-1,SINEMATV HD 2 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/16.ts
+#EXTINF:-1,SINEMATV HD (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/15.ts
+#EXTINF:-1,YESİL SINEMATV (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/651.ts
+#EXTINF:-1,yesilcamyenifilimler
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/735.ts
+#EXTINF:-1,yesilcamhd
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/736.ts
+#EXTINF:-1,YESILCAM (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/638.ts
+#EXTINF:-1,CINEBOX HD 6 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/688.ts
+#EXTINF:-1,CINEBOX HD 5 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/687.ts
+#EXTINF:-1,CINEBOX HD 4 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/686.ts
+#EXTINF:-1,CINEBOX HD 3 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/685.ts
+#EXTINF:-1,CINEBOX HD 2 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/684.ts
+#EXTINF:-1,CINEBOX HD 1 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/683.ts
+#EXTINF:-1,CINEBOX  HD 7 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/689.ts
+#EXTINF:-1,CINE BOLLYWOOD (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/682.ts
+#EXTINF:-1,SALONDA NE VAR? (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/635.ts
+#EXTINF:-1,SALON 1 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/67.ts
+#EXTINF:-1,SALON 2 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/68.ts
+#EXTINF:-1,SALON 3 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/69.ts
+#EXTINF:-1,SALON 3D (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/634.ts
+#EXTINF:-1,MOVIESMART TURK (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/636.ts
+#EXTINF:-1,MOVIESMART PREMIUM HD (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/632.ts
+#EXTINF:-1,MOVIESMART PREMIUM 2 HD (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/633.ts
+#EXTINF:-1,MOVIESMART COCUK (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/637.ts
+#EXTINF:-1,MOVIEGOLD HD (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/21.ts
+#EXTINF:-1,MOVIEACTION HD (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/22.ts
+#EXTINF:-1,MOVIE PLATIN 2 (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/72.ts
+#EXTINF:-1,MOVIE PLATIN (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/71.ts
+#EXTINF:-1,MMX SPEED (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/631.ts
+#EXTINF:-1,KEMAL SUNAL SD (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/692.ts
+#EXTINF:-1,KEMAL SUNAL HD (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/693.ts
+#EXTINF:-1,ZEKI METIN (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/690.ts
+#EXTINF:-1,SADRI ALISIK (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/691.ts
+#EXTINF:-1,FILM CINEMA (DE)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/212.ts
+#EXTINF:-1,FILM ACTION (DE)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/273.ts
+#EXTINF:-1,FILM HITS (DE)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/274.ts
+#EXTINF:-1,FILM COMEDY (DE)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/211.ts
+#EXTINF:-1,Film Star (DE)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/275.ts
+#EXTINF:-1,FILM SELECT 1 (DE)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/276.ts
+#EXTINF:-1,FILM SELECT 2 (DE)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/639.ts
+#EXTINF:-1,FILM SELECT 3 (DE)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/640.ts
+#EXTINF:-1,SKY SPORTS 5 (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/629.ts
+#EXTINF:-1,SKY SPORTS 4 (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/628.ts
+#EXTINF:-1,SKY SPORTS 3 (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/627.ts
+#EXTINF:-1,SKY SPORTS 2 (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/626.ts
+#EXTINF:-1,SKY SPORTS 1 (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/625.ts
+#EXTINF:-1,SKY SPORT F1 (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/630.ts
+#EXTINF:-1,BT SPOR 2 (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/724.ts
+#EXTINF:-1,BT SPOR 1 (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/723.ts
+#EXTINF:-1,BBC 4 (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/624.ts
+#EXTINF:-1,BBC 3 (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/623.ts
+#EXTINF:-1,BBC 2 (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/622.ts
+#EXTINF:-1,BBC 1 (UK)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/621.ts
+#EXTINF:-1,NATIONAL GEO WILD (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/679.ts
+#EXTINF:-1,NATIONAL GEO (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/678.ts
+#EXTINF:-1,DISCOVERY SCIENCE (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/677.ts
+#EXTINF:-1,DISCOVERY (TR)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/676.ts
+#EXTINF:-1,DISCOVERY (NL)
+http://kde.ipne.be:80/live/create/v87e1rtfv6e/703.ts
