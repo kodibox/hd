@@ -21,6 +21,12 @@ http://kde.ipne.be:80/live/start/8de432r88gs1iq/730.ts
 http://kde.ipne.be:80/live/start/8de432r88gs1iq/722.ts
 #EXTINF:-1,TIVIBU SPOR 2 (TR)
 http://kde.ipne.be:80/live/start/8de432r88gs1iq/729.ts
+#EXTINF:-1,SKY SPORT 2 (DE)
+http://kde.ipne.be:80/live/start/8de432r88gs1iq/721.ts
+#EXTINF:-1,SKY SPORT 1 (DE)
+http://kde.ipne.be:80/live/start/8de432r88gs1iq/720.ts
+#EXTINF:-1,SKY BUNDESLIGA (DE)
+http://kde.ipne.be:80/live/start/8de432r88gs1iq/719.ts
 #EXTINF:-1,SKY MOVIES THRILLER (UK)
 http://kde.ipne.be:80/live/start/8de432r88gs1iq/619.ts
 #EXTINF:-1,SKY MOVIES SCI-FI (UK)
