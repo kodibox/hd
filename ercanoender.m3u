@@ -1,137 +1,187 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="48" tvg-name="LIGTV 1 HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/193/Image/buyuk_ligtv_hd-son.png" group-title="3.Digiturk Spor",LIGTV 1 HD - 
-http://pro.redtech.tv:80/live?channelId=48&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="50" tvg-name="LIGTV 1 SD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/193/Image/buyuk_ligtv_hd-son.png" group-title="3.Digiturk Spor",LIGTV 1 SD - 
-http://pro.redtech.tv:80/live?channelId=50&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="49" tvg-name="LIGTV 3 HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/312/Image/buyuk_ligtv3_hd.png" group-title="3.Digiturk Spor",LIGTV 3 HD - 
-http://pro.redtech.tv:80/live?channelId=49&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="249" tvg-name="LIGTV 2 HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/310/Image/buyuk_ligtv2_hd.png" group-title="3.Digiturk Spor",LIGTV 2 HD - 
-http://pro.redtech.tv:80/live?channelId=249&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="282" tvg-name="SALONDA NE VAR?" tvg-logo="http://upload.wikimedia.org/wikipedia/tr/c/c5/Salondanevar.jpg" group-title="2.Digiturk ve Dsmart Sinema",SALONDA NE VAR? - 
-http://pro.redtech.tv:80/live?channelId=282&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="250" tvg-name="SALON 1 3D" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/324/Image/buyuk_3d-new.png" group-title="2.Digiturk ve Dsmart Sinema",SALON 1 3D - 
-http://pro.redtech.tv:80/live?channelId=250&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="7" tvg-name="SALON 1 HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/36/Image/salon01_big.jpg" group-title="2.Digiturk ve Dsmart Sinema",SALON 1 HD - 
-http://pro.redtech.tv:80/live?channelId=7&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="8" tvg-name="SALON 2 HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/37/Image/salon02_big.jpg" group-title="2.Digiturk ve Dsmart Sinema",SALON 2 HD - 
-http://pro.redtech.tv:80/live?channelId=8&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="9" tvg-name="SALON 3 HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/38/Image/salon03_big.jpg" group-title="2.Digiturk ve Dsmart Sinema",SALON 3 HD - 
-http://pro.redtech.tv:80/live?channelId=9&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="238" tvg-name="SİNEMA TV" tvg-logo="http://d.haberciniz.biz/news/797389.jpg" group-title="Filbox",SİNEMA TV - 
-http://pro.redtech.tv:80/live?channelId=238&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="242" tvg-name="SİNEMA TV 2" tvg-logo="http://www.filbox.gen.tr/images/dizi-tv.png" group-title="Filbox",SİNEMA TV 2 - 
-http://pro.redtech.tv:80/live?channelId=242&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="1" tvg-name="Film Action HD" tvg-logo="http://img2.wikia.nocookie.net/__cb20130719155511/logopedia/images/e/e5/Sky_Action.png" group-title="Sinema Yabanci",Film Action HD - 
-http://pro.redtech.tv:80/live?channelId=1&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="4" tvg-name="Film Select 1 HD" tvg-logo="http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/Movies_Select.png_243460868.png" group-title="Sinema Yabanci",Film Select 1 HD - 
-http://pro.redtech.tv:80/live?channelId=4&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="270" tvg-name="Film Select 2 HD" tvg-logo="/noicon.png" group-title="Sinema Yabanci",Film Select 2 HD - 
-http://pro.redtech.tv:80/live?channelId=270&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="271" tvg-name="Film Select 3 HD" tvg-logo="/noicon.png" group-title="Sinema Yabanci",Film Select 3 HD - 
-http://pro.redtech.tv:80/live?channelId=271&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="2" tvg-name="Film Cinema FullHD" tvg-logo="http://img1.wikia.nocookie.net/__cb20130719155142/logopedia/images/7/79/Sky_Cinema.png" group-title="Sinema Yabanci",Film Cinema FullHD - 
-http://pro.redtech.tv:80/live?channelId=2&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="3" tvg-name="Film Hits HD" tvg-logo="http://image1.hoerzu.de/files/station_logos/10059.png" group-title="Sinema Yabanci",Film Hits HD - 
-http://pro.redtech.tv:80/live?channelId=3&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="10" tvg-name="MOVIEMAX SPEED" tvg-logo="http://www.gorintelevizyon.com/_images/logo.png" group-title="2.Digiturk ve Dsmart Sinema",MOVIEMAX SPEED - 
-http://pro.redtech.tv:80/live?channelId=10&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="6" tvg-name="MOVIEMAX ACTİON HD" tvg-logo="http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=1434" group-title="2.Digiturk ve Dsmart Sinema",MOVIEMAX ACTİON HD - 
-http://pro.redtech.tv:80/live?channelId=6&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="11" tvg-name="MOVIEMAX PREMIER HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/271/Image/buyuk_moviemax_premier_hd.png" group-title="2.Digiturk ve Dsmart Sinema",MOVIEMAX PREMIER HD - 
-http://pro.redtech.tv:80/live?channelId=11&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="222" tvg-name="MOVİESMART PREMIUM HD2" tvg-logo="https://img.dsmart.com.tr/Proxy.aspx?src=/Image/Channel/moviesmart-premium-2-hd.png&r=175x114&f=False" group-title="2.Digiturk ve Dsmart Sinema",MOVİESMART PREMIUM HD2 - 
-http://pro.redtech.tv:80/live?channelId=222&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="223" tvg-name="MOVİEMAX PLATİN HD" tvg-logo="https://img.dsmart.com.tr/Proxy.aspx?src=/Image/Channel/moviesmart-platin-hd_635467455994998007.png&r=175x114&f=False" group-title="2.Digiturk ve Dsmart Sinema",MOVİEMAX PLATİN HD - 
-http://pro.redtech.tv:80/live?channelId=223&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="224" tvg-name="MOVİEMAX PLATİN 2 HD" tvg-logo="https://img.dsmart.com.tr/Proxy.aspx?src=/Image/Channel/movie-platin-2-hd-ts6.png&r=175x114&f=False" group-title="2.Digiturk ve Dsmart Sinema",MOVİEMAX PLATİN 2 HD - 
-http://pro.redtech.tv:80/live?channelId=224&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="12" tvg-name="MOVIESMART ACTİON HD" tvg-logo="https://img.dsmart.com.tr/Proxy.aspx?src=/Image/Channel/moviesmart-action-hd.png&r=115x75&f=False" group-title="2.Digiturk ve Dsmart Sinema",MOVIESMART ACTİON HD - 
-http://pro.redtech.tv:80/live?channelId=12&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="14" tvg-name="MOVIESMART GOLD HD" tvg-logo="https://img.dsmart.com.tr/Proxy.aspx?src=/Image/Channel/moviesmart-gold-hd_635084416119911873.png&r=115x75&f=False" group-title="2.Digiturk ve Dsmart Sinema",MOVIESMART GOLD HD - 
-http://pro.redtech.tv:80/live?channelId=14&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="13" tvg-name="MOVIESMART PREMIUM HD" tvg-logo="https://img.dsmart.com.tr/Proxy.aspx?src=/Image/Channel/moviesmart-premium-hd_635477600007507023.png&r=115x75&f=False" group-title="2.Digiturk ve Dsmart Sinema",MOVIESMART PREMIUM HD - 
-http://pro.redtech.tv:80/live?channelId=13&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="15" tvg-name="MOVIESMART TURK" tvg-logo="https://img.dsmart.com.tr/Proxy.aspx?src=/Image/Channel/ms-turk-hd_635459567160410272.PNG&r=115x75&f=False" group-title="2.Digiturk ve Dsmart Sinema",MOVIESMART TURK - 
-http://pro.redtech.tv:80/live?channelId=15&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="16" tvg-name="MOVIESMART COCUK" tvg-logo="https://img.dsmart.com.tr/Proxy.aspx?src=/Image/Channel/smart-cocuk-tp8_635580420214812151.png&r=115x75&f=False" group-title="2.Digiturk ve Dsmart Sinema",MOVIESMART COCUK - 
-http://pro.redtech.tv:80/live?channelId=16&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="17" tvg-name="YESILCAM" tvg-logo="http://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259!Yeşilçam_TV_logosu.png" group-title="2.Digiturk ve Dsmart Sinema",YESILCAM - 
-http://pro.redtech.tv:80/live?channelId=17&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="59" tvg-name="YESIL SINEMA TV" tvg-logo="http://3.bp.blogspot.com/-V_AB5NE4TLU/VJEjAKbcFHI/AAAAAAAAGhY/UImz_0wVeKM/s1600/yesilsinematv.jpg" group-title="1.Turksat Ulusal",YESIL SINEMA TV - 
-http://pro.redtech.tv:80/live?channelId=59&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="61" tvg-name="MEGA SİNE" tvg-logo="http://4.bp.blogspot.com/-1dQilK4Ozeg/VJEhzTrVz8I/AAAAAAAAGgg/GWcslyLUixU/s1600/megasuare.jpg" group-title="1.Turksat Ulusal",MEGA SİNE - 
-http://pro.redtech.tv:80/live?channelId=61&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="225" tvg-name="GS TV" tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png" group-title="1.Turksat Ulusal",GS TV - 
-http://pro.redtech.tv:80/live?channelId=225&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="91" tvg-name="TURKCE KLIP" tvg-logo="http://s1308.hizliresim.com/1d/u/ry3l7.png" group-title="1.Turksat Ulusal",TURKCE KLIP - 
-http://pro.redtech.tv:80/live?channelId=91&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="112" tvg-name="SKY Bundesliga" tvg-logo="http://4.bp.blogspot.com/_KLCuhgF8nX8/Sn8HMGRWYnI/AAAAAAAAG-Q/xspJ9z_4Yj4/s200/150px-Bundesliga-Logo_3D.svg.png" group-title="Alman",SKY Bundesliga - 
-http://pro.redtech.tv:80/live?channelId=112&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="113" tvg-name="SKY Sport 1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/1/18/Logo_Sky_Sport_HD1.png" group-title="Alman",SKY Sport 1 - 
-http://pro.redtech.tv:80/live?channelId=113&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="114" tvg-name="SKY Sport 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/56/Logo_Sky_Sport_HD2.png" group-title="Alman",SKY Sport 2 - 
-http://pro.redtech.tv:80/live?channelId=114&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="144" tvg-name="BT Sport 1" tvg-logo="/noicon.png" group-title="AvrupaSpor",BT Sport 1 - 
-http://pro.redtech.tv:80/live?channelId=144&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="145" tvg-name="BT Sport 2" tvg-logo="/noicon.png" group-title="AvrupaSpor",BT Sport 2 - 
-http://pro.redtech.tv:80/live?channelId=145&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="146" tvg-name="Sky Sport 1 UK" tvg-logo="http://3.bp.blogspot.com/-_o5sjaqpEZQ/UZTHTnE2DWI/AAAAAAAABfI/HqegqL5kQPQ/s1600/Sky%201.jpg" group-title="İngiliz",Sky Sport 1 UK - 
-http://pro.redtech.tv:80/live?channelId=146&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="147" tvg-name="Sky Sport 2 UK" tvg-logo="http://static.mbope.net/tv/16c0ab76c41b5fc8e5b41fa8d2dfd31c17c3146at.jpg" group-title="İngiliz",Sky Sport 2 UK - 
-http://pro.redtech.tv:80/live?channelId=147&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="148" tvg-name="Sky Sport 3 UK" tvg-logo="http://www.onlinetvs247.com/images/uploaded/tvs/128/SkySports3.png" group-title="İngiliz",Sky Sport 3 UK - 
-http://pro.redtech.tv:80/live?channelId=148&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="149" tvg-name="Sky Sport 4 UK" tvg-logo="http://2.bp.blogspot.com/-48JY1a8S7uU/USym_ocgitI/AAAAAAAAAtc/OrfwPj_ByoE/s1600/Sky%204.jpg" group-title="İngiliz",Sky Sport 4 UK - 
-http://pro.redtech.tv:80/live?channelId=149&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="150" tvg-name="Sky Sport F1 UK" tvg-logo="http://img2.wikia.nocookie.net/__cb20140610144330/logopedia/images/thumb/2/21/Sky_Sports_5.svg/500px-Sky_Sports_5.svg.png" group-title="İngiliz",Sky Sport F1 UK - 
-http://pro.redtech.tv:80/live?channelId=150&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="214" tvg-name="Discovery Channel" tvg-logo="http://revextv.com/logos/discovery_international.png" group-title="1.Turksat Ulusal",Discovery Channel - 
-http://pro.redtech.tv:80/live?channelId=214&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="215" tvg-name="Discovery Science" tvg-logo="http://revextv.com/logos/discovery_scernce.png" group-title="1.Turksat Ulusal",Discovery Science - 
-http://pro.redtech.tv:80/live?channelId=215&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="216" tvg-name="NAT GEO" tvg-logo="http://revextv.com/logos/natgeo.png" group-title="1.Turksat Ulusal",NAT GEO - 
-http://pro.redtech.tv:80/live?channelId=216&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="217" tvg-name="NAT GEO WILD" tvg-logo="http://revextv.com/logos/natgeowild.png" group-title="1.Turksat Ulusal",NAT GEO WILD - 
-http://pro.redtech.tv:80/live?channelId=217&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="218" tvg-name="HISTORY CHANNEL" tvg-logo="http://revextv.com/logos/HISTORY.png" group-title="1.Turksat Ulusal",HISTORY CHANNEL - 
-http://pro.redtech.tv:80/live?channelId=218&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="229" tvg-name="SKY MOVIES ACTION" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p131525.png" group-title="İngiliz",SKY MOVIES ACTION - 
-http://pro.redtech.tv:80/live?channelId=229&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="230" tvg-name="SKY MOVIES COMEDY" tvg-logo="http://potentads.co.uk/wp-content/uploads/2012/01/comedy.png" group-title="İngiliz",SKY MOVIES COMEDY - 
-http://pro.redtech.tv:80/live?channelId=230&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="231" tvg-name="SKY MOVIES FAMILY" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p131520.png" group-title="İngiliz",SKY MOVIES FAMILY - 
-http://pro.redtech.tv:80/live?channelId=231&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="232" tvg-name="SKY MOVIES THRILLER" tvg-logo="http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/crimexthriller.png_1237299444.png" group-title="İngiliz",SKY MOVIES THRILLER - 
-http://pro.redtech.tv:80/live?channelId=232&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="233" tvg-name="SKY MOVIES SCI-FI" tvg-logo="http://communityvision.co.uk/wp-content/uploads/2013/04/sky-movies-sci-fi-horror.png" group-title="İngiliz",SKY MOVIES SCI-FI - 
-http://pro.redtech.tv:80/live?channelId=233&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="234" tvg-name="SKY MOVIES DRAMA" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p204849.png" group-title="İngiliz",SKY MOVIES DRAMA - 
-http://pro.redtech.tv:80/live?channelId=234&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="245" tvg-name="KEMALSUNAL HD" tvg-logo="/noicon.png" group-title="Sinema Yabanci",KEMALSUNAL HD - 
-http://pro.redtech.tv:80/live?channelId=245&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="246" tvg-name="KEMAL SUNAL SD" tvg-logo="/noicon.png" group-title="Filbox",KEMAL SUNAL SD - 
-http://pro.redtech.tv:80/live?channelId=246&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="247" tvg-name="SADRİ ALISIK" tvg-logo="/noicon.png" group-title="Filbox",SADRİ ALISIK - 
-http://pro.redtech.tv:80/live?channelId=247&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="248" tvg-name="ZEKİ METİN FİLM" tvg-logo="/noicon.png" group-title="Filbox",ZEKİ METİN FİLM - 
-http://pro.redtech.tv:80/live?channelId=248&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="251" tvg-name="CINEBOX  HD1" tvg-logo="/noicon.png" group-title="2.Digiturk ve Dsmart Sinema",CINEBOX  HD1 - 
-http://pro.redtech.tv:80/live?channelId=251&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="252" tvg-name="CINEBOX HD2" tvg-logo="/noicon.png" group-title="2.Digiturk ve Dsmart Sinema",CINEBOX HD2 - 
-http://pro.redtech.tv:80/live?channelId=252&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="253" tvg-name="CINEBOX HD3" tvg-logo="/noicon.png" group-title="2.Digiturk ve Dsmart Sinema",CINEBOX HD3 - 
-http://pro.redtech.tv:80/live?channelId=253&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="254" tvg-name="CINEBOX HD4" tvg-logo="/noicon.png" group-title="2.Digiturk ve Dsmart Sinema",CINEBOX HD4 - 
-http://pro.redtech.tv:80/live?channelId=254&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="255" tvg-name="CINEBOX HD5" tvg-logo="/noicon.png" group-title="2.Digiturk ve Dsmart Sinema",CINEBOX HD5 - 
-http://pro.redtech.tv:80/live?channelId=255&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="256" tvg-name="CINEBOX HD6" tvg-logo="/noicon.png" group-title="2.Digiturk ve Dsmart Sinema",CINEBOX HD6 - 
-http://pro.redtech.tv:80/live?channelId=256&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="257" tvg-name="CINEBOX HD7" tvg-logo="/noicon.png" group-title="2.Digiturk ve Dsmart Sinema",CINEBOX HD7 - 
-http://pro.redtech.tv:80/live?channelId=257&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="272" tvg-name="SMART SPOR1" tvg-logo="http://revextv.com/logos/smartsporhd.png" group-title="3.Digiturk Spor",SMART SPOR1 - 
-http://pro.redtech.tv:80/live?channelId=272&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="273" tvg-name="SMART SPOR2" tvg-logo="https://img.dsmart.com.tr/Proxy.aspx?src=/Image/Channel/smart-spor-2-hd_635084419173149236.png&r=115x75&f=False" group-title="3.Digiturk Spor",SMART SPOR2 - 
-http://pro.redtech.tv:80/live?channelId=273&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
-#EXTINF:-1 tvg-id="286" tvg-name="TIVIBU SPOR HD" tvg-logo="https://lh4.googleusercontent.com/-P8tCixZG_2Q/TfHoXg3AUCI/AAAAAAAAAdI/DnjC_8vKAzU/s800/tivibu.png" group-title="3.Digiturk Spor",TIVIBU SPOR HD - 
-http://pro.redtech.tv:80/live?channelId=286&uid=578&deviceUser=hazirlar&devicePass=f5qta6dp4uy
+#EXTINF:-1,SALON 9
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/909.ts
+#EXTINF:-1,SALON 8
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/910.ts
+#EXTINF:-1,SALON 7
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/911.ts
+#EXTINF:-1,SALON 6
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/913.ts
+#EXTINF:-1,SALON 5
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/914.ts
+#EXTINF:-1,SALON 4
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/915.ts
+#EXTINF:-1,SALON 3 3D (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/897.ts
+#EXTINF:-1,SALON 2 3D  (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/898.ts
+#EXTINF:-1,SALON 10
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/912.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/900.ts
+#EXTINF:-1,NAT GEO CHANELL HD
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/901.ts
+#EXTINF:-1,MOVIMAX PREMIER
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/904.ts
+#EXTINF:-1,MOVIEMAX TURK
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/903.ts
+#EXTINF:-1,MOVIEMAX FESTIVAL
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/905.ts
+#EXTINF:-1,MOVIEMAX FAMILY
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/906.ts
+#EXTINF:-1,MOVIEMAX COMEDY
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/907.ts
+#EXTINF:-1,MOVIEMAX ACTION
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/908.ts
+#EXTINF:-1,LIGTV 1 DTP
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/703.ts
+#EXTINF:-1,Ligtv (dtp)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/704.ts
+#EXTINF:-1,LIGTV HD
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/722.ts
+#EXTINF:-1,LIGTV 2HD
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/724.ts
+#EXTINF:-1,LIGTV 3HD
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/723.ts
+#EXTINF:-1,SMART SPOR
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/725.ts
+#EXTINF:-1,SMART SPOR 2
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/726.ts
+#EXTINF:-1,TIVIBU SPOR 1 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/727.ts
+#EXTINF:-1,TIVIBU SPOR 2 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/728.ts
+#EXTINF:-1,BT SPOR 1 (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/719.ts
+#EXTINF:-1,BT SPOR 2 (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/718.ts
+#EXTINF:-1,SKY SPORT 1 (DE)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/717.ts
+#EXTINF:-1,SKY SPORT 2 (DE)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/716.ts
+#EXTINF:-1,SKY SPORTS 1 (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/714.ts
+#EXTINF:-1,SKY SPORTS 2 (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/713.ts
+#EXTINF:-1,SKY SPORTS 3 (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/712.ts
+#EXTINF:-1,SKY SPORTS 4 (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/711.ts
+#EXTINF:-1,SKY SPORTS 5 (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/710.ts
+#EXTINF:-1,SKY SPORT F1 (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/715.ts
+#EXTINF:-1,ZEKI METIN (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/753.ts
+#EXTINF:-1,YESİL SINEMATV (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/754.ts
+#EXTINF:-1,yesilcamyenifilimler
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/680.ts
+#EXTINF:-1,yesilcamhd
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/681.ts
+#EXTINF:-1,YESILCAM (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/755.ts
+#EXTINF:-1,SKY BUNDESLIGA (DE)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/697.ts
+#EXTINF:-1,SINEMATV HD 2 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/888.ts
+#EXTINF:-1,SINEMATV HD (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/887.ts
+#EXTINF:-1,SALONDA NE VAR? (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/736.ts
+#EXTINF:-1,SALON 1 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/737.ts
+#EXTINF:-1,SALON 3D (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/740.ts
+#EXTINF:-1,SALON 2 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/738.ts
+#EXTINF:-1,SALON 3 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/739.ts
+#EXTINF:-1,CINEBOX HD 1 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/729.ts
+#EXTINF:-1,CINEBOX HD 2 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/730.ts
+#EXTINF:-1,CINEBOX HD 3 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/731.ts
+#EXTINF:-1,CINEBOX HD 4 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/732.ts
+#EXTINF:-1,CINEBOX HD 5 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/733.ts
+#EXTINF:-1,CINEBOX HD 6 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/734.ts
+#EXTINF:-1,CINEBOX  HD 7 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/735.ts
+#EXTINF:-1,MOVIESMART TURK (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/751.ts
+#EXTINF:-1,MOVIESMART PREMIUM HD (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/741.ts
+#EXTINF:-1,MOVIESMART PREMIUM 2 HD (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/742.ts
+#EXTINF:-1,MOVIESMART COCUK (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/756.ts
+#EXTINF:-1,MOVIEGOLD HD (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/743.ts
+#EXTINF:-1,MOVIEACTION HD (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/744.ts
+#EXTINF:-1,MOVIE PLATIN 2 (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/746.ts
+#EXTINF:-1,MOVIE PLATIN (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/745.ts
+#EXTINF:-1,MMX SPEED (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/747.ts
+#EXTINF:-1,KEMAL SUNAL SD (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/749.ts
+#EXTINF:-1,KEMAL SUNAL HD (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/750.ts
+#EXTINF:-1,SADRI ALISIK (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/752.ts
+#EXTINF:-1,DISCOVERY SCIENCE (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/706.ts
+#EXTINF:-1,DISCOVERY (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/707.ts
+#EXTINF:-1,NATIONAL GEO WILD (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/701.ts
+#EXTINF:-1,NATIONAL GEO (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/702.ts
+#EXTINF:-1,KANAL T (TR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/814.ts
+#EXTINF:-1,Film Star (DE)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/689.ts
+#EXTINF:-1,SKY MOVIES THRILLER (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/682.ts
+#EXTINF:-1,SKY MOVIES SCI-FI (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/683.ts
+#EXTINF:-1,SKY MOVIES PREMIERE (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/684.ts
+#EXTINF:-1,SKY MOVIES FAMILY (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/685.ts
+#EXTINF:-1,SKY MOVIES COMEDY (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/686.ts
+#EXTINF:-1,SKY MOVIES ACTION (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/687.ts
+#EXTINF:-1,SKY DRAMA (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/688.ts
+#EXTINF:-1,FILM SELECT 3 (DE)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/690.ts
+#EXTINF:-1,FILM SELECT 2 (DE)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/691.ts
+#EXTINF:-1,FILM SELECT 1 (DE)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/692.ts
+#EXTINF:-1,FILM HITS (DE)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/693.ts
+#EXTINF:-1,FILM COMEDY (DE)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/694.ts
+#EXTINF:-1,FILM CINEMA (DE)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/695.ts
+#EXTINF:-1,FILM ACTION (DE)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/696.ts
+#EXTINF:-1,BBC 1 (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/871.ts
+#EXTINF:-1,BBC 2 (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/870.ts
+#EXTINF:-1,BBC 3 (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/869.ts
+#EXTINF:-1,BBC 4 (UK)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/868.ts
+#EXTINF:-1,BBC (AR)
+http://note4.redtech.tv:80/live/hazirlar/d1327rf7e198ys8il1q/883.ts
